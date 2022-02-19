@@ -1,4 +1,4 @@
-package org.situjunjie.demo.netty.netty.handler;
+package org.situjunjie.demo.netty.netty.simple.handler;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

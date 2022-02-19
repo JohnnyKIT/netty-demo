@@ -1,12 +1,11 @@
-package org.situjunjie.demo.netty.netty;
+package org.situjunjie.demo.netty.netty.simple;
 
-import io.netty.bootstrap.Bootstrap;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
-import org.situjunjie.demo.netty.netty.handler.NettyServerHandller;
+import org.situjunjie.demo.netty.netty.simple.handler.NettyServerHandller;
 
 /**
  * @author situjunjie@foxmail.com
